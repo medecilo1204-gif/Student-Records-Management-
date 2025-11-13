@@ -1,0 +1,48 @@
+
+        body {
+            background: tomato;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.5;
+        }
+        .Student-Form{
+            position: relative;
+            background:seashell;
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px #181717;
+            max-width: 800px;
+            margin: auto;
+            margin-bottom: 30px;
+        }
+        .outputBox{
+            background: seashell;
+            padding: 20px 40px;
+            border-radius: 10px ;
+            box-shadow: 0 2px 8px #181717;
+            max-width: 800px;
+            margin: auto;
+        }
+         label.lbl {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        input.txt, select.yrLevel, textarea.area {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            margin-bottom: 25px;
+            font-size: 15px;
+            box-sizing: border-box;
+        }
+        p{
+            margin-bottom: 20px;
+            color:silver;
+            font-style: italic;
+            font-weight:2000;
+        }
+        input.searchField{
+            width: 68%;
+        }
